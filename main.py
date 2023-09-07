@@ -1,5 +1,5 @@
 print("hello world")
-name="James"
+name="Penn"
 if(name):
 	print(f"Hello {name}")
 else:
